@@ -35,8 +35,6 @@
   - CPU
   - GPU
 
-- I ADD SOMETHING HERE
-
 - Unix Filesystem
 	- [Filesystem overview](https://github.com/IntroToCompBioLSU-Spr20/Intro_Week1/blob/master/Filesystems.md)
  	- The Unix root (/)
